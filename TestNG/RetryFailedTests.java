@@ -1,4 +1,4 @@
-package week5.day1.excercise;
+package week6.day2;
 
 import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
